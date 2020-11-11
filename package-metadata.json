@@ -1,0 +1,1 @@
+{"dependencies": [], "version": "1.0.1", "platforms": ["*"], "description": "Autocompletion for ServiceNow API within Sublime Text", "url": "https://github.com/dancigrang/servicenow-autocomplete", "sublime_text": "*"}
